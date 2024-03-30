@@ -10,17 +10,17 @@ I'm A Z Hasnain Kabir, a Software Engineering student at the Islamic University 
 
 <strong>Popular Projects</strong>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSprintNaN&repo=server&theme=radical)](https://github.com/DevSprintNaN/server)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSprintNaN&repo=server&theme=radical)](https://github.com/DevSprintNaN/server) <br>
 A Hackathon project where my team secured the first runner-up position. It was an exciting journey filled with learning and collaboration.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=EcoConnect&theme=radical)](https://github.com/HasnainKabir-repos/EcoConnect)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=EcoConnect&theme=radical)](https://github.com/HasnainKabir-repos/EcoConnect) <br>
 EcoConnect is a project developed using MongoDB, Express.js, React.js, and Node.js. It demonstrates my skills in full-stack development and my ability to create meaningful applications.
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=Design-Pattern&theme=radical)](https://github.com/HasnainKabir-repos/Design-Pattern)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=Design-Pattern&theme=radical)](https://github.com/HasnainKabir-repos/Design-Pattern) <br>
 This repository contains a project developed in Java focusing on various design patterns. It showcases my understanding of software design principles and best practices.
 
 ## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=HasnainKabir-repos&show_icons=true&theme=radical)
+![Github stats](https://github-readme-stats.vercel.app/api?username=HasnainKabir-repos&show_icons=true&theme=radical) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainKabir-repos&layout=compact&theme=radical)](https://github.com/HasnainKabir-repos/github-readme-stats)
 ## 💻 Skills
 ![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
