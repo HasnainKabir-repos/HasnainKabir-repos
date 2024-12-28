@@ -10,7 +10,7 @@ I'm A Z Hasnain Kabir, a Software Engineering student at the Islamic University 
 
 <strong>Popular Projects</strong>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=bit-NaN&theme=radical)](https://github.com/mirzaazwad/bit-NaN) <br>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirzaazwad&repo=bit-NaN&theme=radical)](https://github.com/mirzaazwad/bit-NaN) <br>
 Bit is a study app developed for students to track their study progress, engage in group discussions, plan goals and chat with AI for study help.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DevSprintNaN&repo=server&theme=radical)](https://github.com/DevSprintNaN/server) <br>
