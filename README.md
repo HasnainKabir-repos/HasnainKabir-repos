@@ -1,38 +1,68 @@
-<h1 align="center">Welcome to A Z Hasnain Kabir's GitHub Profile! 👋</h1>
+<h1 align="center">Hi there, I’m <strong>A Z Hasnain Kabir</strong> 👋</h1>
 
 <p align="center">
   <a href="https://github.com/HasnainKabir-repos"><img src="https://img.shields.io/github/followers/HasnainKabir-repos?style=social" alt="GitHub Follow"></a>
   <a href="https://github.com/HasnainKabir-repos?tab=repositories"><img src="https://badges.pufler.dev/repos/HasnainKabir-repos?style=flat-square&color=black" alt="Repositories"></a>
+  <a href="https://www.linkedin.com/in/a-z-hasnain-kabir-632495216/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ## 🚀 About Me
-I'm A Z Hasnain Kabir, a Software Engineering student at the Islamic University of Technology. I have a passion for coding and building innovative solutions.
+I’m a **Software Engineering student at Islamic University of Technology (IUT)**, passionate about building innovative and meaningful software solutions. I enjoy working across the full stack (front-end, back-end, database) and exploring deeper CS foundations.
+I’m currently open to **collaboration, internship opportunities, and software engineering roles**.
 
-<strong>Popular Projects</strong>
+---
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=bit-NaN&theme=radical)](https://github.com/HasnainKabir-repos/bit-NaN) <br>
-Bit is a study app developed for students to track their study progress, engage in group discussions, plan goals and chat with AI for study help.
+## 🛠️ Tech Stack  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=mirzaazwad&repo=ProjectHubServer&theme=radical)](https://github.com/mirzaazwad/ProjectHubServer) <br>
-A Hackathon project where my team secured the first runner-up position. It was an exciting journey filled with learning and collaboration.
+### Languages  
+`Python` · `Java` · `JavaScript` · `C++` · `C` · `C#` · `SQL`  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=EcoConnect&theme=radical)](https://github.com/HasnainKabir-repos/EcoConnect) <br>
-EcoConnect is a project developed using MongoDB, Express.js, React.js, and Node.js. It demonstrates my skills in full-stack development and my ability to create meaningful applications.
+### Frameworks / Tools  
+`React` · `Node.js` · `Express.js` · `Spring Boot` · `Flask` · `MongoDB` · `MySQL` · `Oracle` · `Docker` · `Nginx` · `Git` · `GitHub Actions`  
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=Design-Pattern&theme=radical)](https://github.com/HasnainKabir-repos/Design-Pattern) <br>
-This repository contains a project developed in Java focusing on various design patterns. It showcases my understanding of software design principles and best practices.
+```text
+Frontend ► React, HTML, CSS, JavaScript
+Backend  ► Node.js, Express.js, Flask, Spring Boot
+Databases► MongoDB, MySQL, Oracle
+DevOps  ► Docker, Nginx, CI/CD (GitHub Actions), Git
+```
 
-## Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=HasnainKabir-repos&show_icons=true&theme=radical) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HasnainKabir-repos&layout=compact&theme=radical)](https://github.com/HasnainKabir-repos/github-readme-stats)
-## 💻 Skills
-![Python](https://img.icons8.com/color/48/000000/python--v1.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript--v1.png) ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) ![C](https://img.icons8.com/color/48/000000/c-programming.png) ![SQL](https://img.icons8.com/color/48/000000/sql.png) ![C#](https://img.icons8.com/color/48/000000/c-sharp-logo.png) ![HTML](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS](https://img.icons8.com/color/48/000000/css3.png)
+---
 
-![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![React.js](https://img.icons8.com/color/48/000000/react-native.png) ![SpringBoot](https://img.icons8.com/color/48/000000/spring-logo.png) ![Flask](https://img.icons8.com/color/48/000000/flask.png) ![PHP](https://img.icons8.com/color/48/000000/php.png) ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png) ![Oracle](https://img.icons8.com/color/48/000000/oracle-logo.png) ![Git](https://img.icons8.com/color/48/000000/git.png) ![GitHub Actions](https://img.icons8.com/material-outlined/48/000000/github.png) ![Docker](https://img.icons8.com/color/48/000000/docker.png) ![Nginx](https://img.icons8.com/color/48/000000/nginx.png)
+## 🎯 What I’m Working On / Learning  
+- Building **full-stack applications** (React + Node/Express or Spring Boot)  
+- Studying advanced CS topics: OS & Kernel Engineering, Compilers, Distributed Systems, Cryptography, Hardware–Software Co-design, Systems-level RL  
+- Improving architecture design, clean code, and testing practices  
 
-## Let's Connect!
-Feel free to explore my repositories and reach out to me if you want to collaborate or have any questions. You can connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/a-z-hasnain-kabir-632495216/) as well.
+---
 
+## ⭐ Featured Projects  
+<div align="center">
 
-Thank you for visiting my GitHub profile! 😊
+[![bit-NaN](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HasnainKabir-repos&repo=bit-NaN&theme=radical)](https://github.com/HasnainKabir-repos/bit-NaN)  
+**bit-NaN** — A study-app for tracking progress, discussions, goal-planning, and AI-powered help.
 
+[![EcoConnect](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HasnainKabir-repos&repo=EcoConnect&theme=radical)](https://github.com/HasnainKabir-repos/EcoConnect)  
+**EcoConnect** — MERN application focused on eco-friendly collaboration and awareness.
+
+[![Design-Pattern](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=HasnainKabir-repos&repo=Design-Pattern&theme=radical)](https://github.com/HasnainKabir-repos/Design-Pattern)](https://github-readme-stats.vercel.app/api/pin/?username=HasnainKabir-repos&repo=Design-Pattern&theme=radical)](https://github.com/HasnainKabir-repos/Design-Pattern)  
+**Design-Pattern** — A Java project demonstrating various classic software design patterns.
+
+</div>
+
+---
+
+## 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HasnainKabir-repos&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HasnainKabir-repos&layout=compact&theme=radical)
+
+---
+
+## 📬 Get in Touch  
+- LinkedIn: https://www.linkedin.com/in/a-z-hasnain-kabir-632495216/  
+- Email: *(add your email here if you want)*  
+- Always happy to collaborate or chat! 😊  
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”
